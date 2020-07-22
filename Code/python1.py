@@ -74,8 +74,6 @@ def two(input):
 		return ""
 	else:	
 		return newString
- 
-print(two("xxBertfridgebERtyy"))
 
 
 	# <QUESTION 3>
@@ -276,4 +274,3 @@ def ten(string, int, char):
 		return True
 	else:
 		return False
-print(ten("The",2,'h'))
